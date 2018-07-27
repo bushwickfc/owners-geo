@@ -1,0 +1,2 @@
+geocoder
+psycopg2-binary
