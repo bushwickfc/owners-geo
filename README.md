@@ -31,7 +31,7 @@ Run the script with the command
 python3 run.py
 ```
 
-As the script geocodes each owner address, it'll add the data to a FeatureCollection, which will ultimately be written to a file named `owners.geojson`. The data in this file can be used for any number of mappy things.
+As the script geocodes each owner address, it'll add the data to a FeatureCollection, which will ultimately be written to a file named `-owners.geojson`, prefixed with the date. The data in this file can be used for any number of mappy things.
 
 ## Reference
 
